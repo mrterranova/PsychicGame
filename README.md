@@ -19,6 +19,7 @@ Download the jar file onto your desktop.
 
 Open the command prompt and navigate to your desktop. Then open up the jar file. Steps: 
 > cd desktop
+
 > java -jar PsychicGame.jar
 
 And have fun playing!
